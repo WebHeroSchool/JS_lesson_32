@@ -1,0 +1,39 @@
+body {
+    font-family: Cuprum;
+}
+
+.profile-card {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    height: 800px;
+    padding: 20px;
+    border: 2px solid #c5c5c5;
+    border-radius: 15px;
+    color: #ffffff;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/pink%20dust.png");
+    box-shadow: 0 0 20px 0;
+}
+
+.figure {
+    margin: 20px auto;
+}
+
+.fig-caption {
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.paragraph {
+    min-width: 460px;
+    margin: 10px auto;
+    font-size: 30px;
+    line-height: 2;
+    color: #ffffff;
+}
+
+.link {
+    color: #ffffff;
+}
